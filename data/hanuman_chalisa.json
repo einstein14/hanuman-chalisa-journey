@@ -1,0 +1,1355 @@
+{
+  "title": "Hanuman Chalisa",
+  "edition_note": "Traditional text as commonly printed (Gita Press style Awadhi spellings).",
+  "verses": [
+    {
+      "id": 1,
+      "type": "introductory_doha",
+      "number_in_type": 1,
+      "hindi": "श्रीगुरु चरन सरोज रज निज मन मुकुर सुधारि। बरनउँ रघुबर बिमल जसु जो दायकु फल चारि॥",
+      "telugu": "శ్రీ గురు చరణ సరోజ రజ, నిజ మన ముకురు సుధారి। బరనఉం రఘుబర బిమల జసు జో దాయకు ఫల చారి॥",
+      "english_transliteration": "Shri guru charan saroj raj, nij man mukur sudhari. Baranau Raghubar bimal jasu jo dayaku phal chari.",
+      "meaning_english": "We clean our hearts like a mirror and praise Lord Rama, who gives the four blessings of life.",
+      "meaning_telugu": "మనసును శుభ్రం చేసి, నాలుగు మంగళాలు ఇచ్చే రాముని కీర్తన చేస్తాము.",
+      "why_special_english": "This verse teaches us to begin with respect and a clean heart.",
+      "why_special_telugu": "గౌరవంతో, శుభ్రమైన hrudayam tho modalu pettadam nerchutam.",
+      "audio": "/audio/intro-doha-01.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "फल",
+        "blank_options": [
+          "फल",
+          "राम",
+          "जसु"
+        ],
+        "arrange_lines": [
+          "श्रीगुरु चरन सरोज रज निज मन मुकुर सुधारि।",
+          "बरनउँ रघुबर बिमल जसु जो दायकु फल चारि॥।"
+        ],
+        "wrong_meanings_en": [
+          "Knowing we are small, we remember Hanuman and ask for strength, wisdom, and a peaceful heart.",
+          "Victory to Hanuman, an ocean of wisdom and goodness! His light shines in all three worlds."
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "type": "introductory_doha",
+      "number_in_type": 2,
+      "hindi": "बुद्धिहीन तनु जानिके सुमिरौं पवन-कुमार। बल बुद्धि विद्या देहु मोहि हरहु कलेस बिकार॥",
+      "telugu": "బుద్ధిహీన తను జానికే, సుమిరౌం పవన-కుమార। బల బుద్ధి విద్యా దేహు మోహి, హరహు కలేస వికార॥",
+      "english_transliteration": "Buddhihin tanu janike, sumirau Pavan-kumar. Bal buddhi vidya dehu mohi, harahu kalesh vikar.",
+      "meaning_english": "Knowing we are small, we remember Hanuman and ask for strength, wisdom, and a peaceful heart.",
+      "meaning_telugu": "మనం చిన్నదని తెలుసుకొని హనుమంతుని గుర్తు చేసుకొని బలం, బుద్ధి, శాంతి అడుగుతాము.",
+      "why_special_english": "Hanuman helps us when we feel we need more strength and wisdom.",
+      "why_special_telugu": "Bala, buddhi kavali anipinchinappudu Hanuman sahayam.",
+      "audio": "/audio/intro-doha-02.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "पवन-कुमार",
+        "blank_options": [
+          "पवन-कुमार",
+          "हनुमान",
+          "राम"
+        ],
+        "arrange_lines": [
+          "बुद्धिहीन तनु जानिके सुमिरौं पवन-कुमार।",
+          "बल बुद्धि विद्या देहु मोहि हरहु कलेस बिकार॥।"
+        ],
+        "wrong_meanings_en": [
+          "Victory to Hanuman, an ocean of wisdom and goodness! His light shines in all three worlds.",
+          "Hanuman is Rama's messenger and has amazing strength. He is Anjani's son, called the son of the wind."
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "type": "chaupai",
+      "number_in_type": 1,
+      "hindi": "जय हनुमान ज्ञान गुण सागर। जय कपीस तिहुँ लोक उजागर॥",
+      "telugu": "జయ హనుమాన్ జ్ఞాన గుణ సాగర। జయ కపీస్ తిహुం లోక ఉజాగర॥",
+      "english_transliteration": "Jai Hanuman gyan gun sagar. Jai Kapis tihun lok ujagar.",
+      "meaning_english": "Victory to Hanuman, an ocean of wisdom and goodness! His light shines in all three worlds.",
+      "meaning_telugu": "జ్ఞానమూ మంచి గుణాల ocean లా ఉన్న హనుమంతునికి జయ! అతని light మూడు లోకాల్లో కాంతి.",
+      "why_special_english": "Hanuman's goodness is as deep as an ocean of learning.",
+      "why_special_telugu": "Hanuman gunalu samudram laga glubhinchevatam.",
+      "audio": "/audio/verse-01.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "सागर",
+        "blank_options": [
+          "सागर",
+          "राम",
+          "सीता"
+        ],
+        "arrange_lines": [
+          "जय हनुमान ज्ञान गुण सागर।",
+          "जय कपीस तिहुँ लोक उजागर॥।"
+        ],
+        "wrong_meanings_en": [
+          "Hanuman is Rama's messenger and has amazing strength. He is Anjani's son, called the son of the wind.",
+          "Brave Hanuman is strong like thunder. He keeps bad thoughts away and stays with good thoughts."
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "type": "chaupai",
+      "number_in_type": 2,
+      "hindi": "रामदूत अतुलित बल धामा। अंजनि-पुत्र पवनसुत नामा॥",
+      "telugu": "రామదూత అతులిత బల ధామా। అంజని-పుత్ర పవనసుత నామా॥",
+      "english_transliteration": "Ramdoot atulit bal dhama. Anjani-putra Pavan-sut nama.",
+      "meaning_english": "Hanuman is Rama's messenger and has amazing strength. He is Anjani's son, called the son of the wind.",
+      "meaning_telugu": "హనుమంతుడు రాముని దూత, అసాధారణ బలం కలవాడు. అంజనాదేవి కుమారుడు, పవనపుత్రుడు.",
+      "why_special_english": "Hanuman carries Rama's message with great courage.",
+      "why_special_telugu": "Rama sandesam tho dhairyam.",
+      "audio": "/audio/verse-02.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "धामा",
+        "blank_options": [
+          "धामा",
+          "नामा",
+          "राम"
+        ],
+        "arrange_lines": [
+          "रामदूत अतुलित बल धामा।",
+          "अंजनि-पुत्र पवनसुत नामा॥।"
+        ],
+        "wrong_meanings_en": [
+          "Brave Hanuman is strong like thunder. He keeps bad thoughts away and stays with good thoughts.",
+          "Hanuman shines like gold and looks beautiful, with earrings and curly hair."
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "type": "chaupai",
+      "number_in_type": 3,
+      "hindi": "महाबीर बिक्रम बजरंगी। कुमति निवार सुमति के संगी॥",
+      "telugu": "మహావీర బిక్రమ బజరంగి। కుమతి నివార సుమతి కే సంగి॥",
+      "english_transliteration": "Mahavir bikram Bajrangi. Kumati nivar sumati ke sangi.",
+      "meaning_english": "Brave Hanuman is strong like thunder. He keeps bad thoughts away and stays with good thoughts.",
+      "meaning_telugu": "వీరుడైన హనుమంతుడు బజరంగి లా బలమైనవాడు. చెడు ఆలోచనలు తొలగించి మంచితనంతో ఉంటాడు.",
+      "why_special_english": "Hanuman is strong and chooses good thoughts.",
+      "why_special_telugu": "Balam tho sumati tho undatam.",
+      "audio": "/audio/verse-03.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "बजरंगी",
+        "blank_options": [
+          "बजरंगी",
+          "राम",
+          "लंक"
+        ],
+        "arrange_lines": [
+          "महाबीर बिक्रम बजरंगी।",
+          "कुमति निवार सुमति के संगी॥।"
+        ],
+        "wrong_meanings_en": [
+          "Hanuman shines like gold and looks beautiful, with earrings and curly hair.",
+          "He holds a thunderbolt and a flag. A sacred thread rests on his shoulder."
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "type": "chaupai",
+      "number_in_type": 4,
+      "hindi": "कंचन बरन बिराज सुबेसा। कानन कुण्डल कुंचित केसा॥",
+      "telugu": "కంచన బరన బిరాజ సుబేసా। కానన కుండల కుంచిత కేసా॥",
+      "english_transliteration": "Kanchan baran biraj subesa. Kanan kundal kunchit kesa.",
+      "meaning_english": "Hanuman shines like gold and looks beautiful, with earrings and curly hair.",
+      "meaning_telugu": "బంగారు వంటి రంగులో అందంగా కనిపిస్తాడు, కుండలాలు మరియు గిరగిరా జుట్టు ఉంటాయి.",
+      "why_special_english": "Hanuman's bright form reminds us of courage and beauty.",
+      "why_special_telugu": "Tejasvi roopam dhairya gurtu.",
+      "audio": "/audio/verse-04.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "केसा",
+        "blank_options": [
+          "केसा",
+          "राम",
+          "ध्वजा"
+        ],
+        "arrange_lines": [
+          "कंचन बरन बिराज सुबेसा।",
+          "कानन कुण्डल कुंचित केसा॥।"
+        ],
+        "wrong_meanings_en": [
+          "He holds a thunderbolt and a flag. A sacred thread rests on his shoulder.",
+          "He is dear like a son of Kesari and is worshipped for his bright courage all over the world."
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "type": "chaupai",
+      "number_in_type": 5,
+      "hindi": "हाथ बज्र औ ध्वजा बिराजै। काँधे मूँज जनेऊ साजै॥",
+      "telugu": "హాథ వజ్ర ఔ ధ్వజా బిరాజై। కాంధే మూఁజ జనేఊ సాజై॥",
+      "english_transliteration": "Hath vajra au dhvaja birajai. Kandhe munj janeu sajai.",
+      "meaning_english": "He holds a thunderbolt and a flag. A sacred thread rests on his shoulder.",
+      "meaning_telugu": "చేతిలో వజ్రాయుధం, ధ్వజం. భుజంపై పవిత్ర జనెఊ.",
+      "why_special_english": "His symbols show he protects dharma with power and faith.",
+      "why_special_telugu": "Dharma rakshana symbols.",
+      "audio": "/audio/verse-05.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "ध्वजा",
+        "blank_options": [
+          "ध्वजा",
+          "राम",
+          "बज्र"
+        ],
+        "arrange_lines": [
+          "हाथ बज्र औ ध्वजा बिराजै।",
+          "काँधे मूँज जनेऊ साजै॥।"
+        ],
+        "wrong_meanings_en": [
+          "He is dear like a son of Kesari and is worshipped for his bright courage all over the world.",
+          "Hanuman is wise and skilled. He is always eager to help Lord Rama."
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "type": "chaupai",
+      "number_in_type": 6,
+      "hindi": "शंकर सुवन केसरी नंदन। तेज प्रताप महा जग बंदन॥",
+      "telugu": "శంకర సువన కేసరి నందన। తేజ ప్రతాప మహా జగ బందన॥",
+      "english_transliteration": "Shankar suvan Kesari nandan. Tej pratap maha jag bandan.",
+      "meaning_english": "He is dear like a son of Kesari and is worshipped for his bright courage all over the world.",
+      "meaning_telugu": "కేసరి కుమారuday లా ప్రకాశవంతమైన ధైర్యానికి ప్రపంచం namaskaram చేస్తుంది.",
+      "why_special_english": "Hanuman is loved like a brave and shining hero.",
+      "why_special_telugu": "Veeruni prema and prasamsa.",
+      "audio": "/audio/verse-06.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "नंदन",
+        "blank_options": [
+          "नंदन",
+          "राम",
+          "सागर"
+        ],
+        "arrange_lines": [
+          "शंकर सुवन केसरी नंदन।",
+          "तेज प्रताप महा जग बंदन॥।"
+        ],
+        "wrong_meanings_en": [
+          "Hanuman is wise and skilled. He is always eager to help Lord Rama.",
+          "He loves to hear Rama's stories. Rama, Lakshmana, and Sita live in his heart."
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "type": "chaupai",
+      "number_in_type": 7,
+      "hindi": "बिद्यावान गुनी अति चातुर। राम काज करिबे को आतुर॥",
+      "telugu": "విద్యావాన్ గుణి అతి చాతुर। రామ కాజ కరిబే కో ఆతుర॥",
+      "english_transliteration": "Vidyavan guni ati chatur. Ram kaj karibe ko aatur.",
+      "meaning_english": "Hanuman is wise and skilled. He is always eager to help Lord Rama.",
+      "meaning_telugu": "హనుమంతుడు తెలివైనవాడు. రామuni panulu cheyadaniki eppudu utsaham.",
+      "why_special_english": "Hanuman uses his skills to serve Rama.",
+      "why_special_telugu": "Rama seva ki telivithetalu.",
+      "audio": "/audio/verse-07.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "आतुर",
+        "blank_options": [
+          "आतुर",
+          "राम",
+          "बल"
+        ],
+        "arrange_lines": [
+          "बिद्यावान गुनी अति चातुर।",
+          "राम काज करिबे को आतुर॥।"
+        ],
+        "wrong_meanings_en": [
+          "He loves to hear Rama's stories. Rama, Lakshmana, and Sita live in his heart.",
+          "He became tiny to meet Sita and became huge to burn Lanka."
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "type": "chaupai",
+      "number_in_type": 8,
+      "hindi": "प्रभु चरित्र सुनिबे को रसिया। राम लखन सीता मन बसिया॥",
+      "telugu": "ప్రభు చరిత్ర సునిబే కో రసియా। రామ లఖన సీతా మన బసియా॥",
+      "english_transliteration": "Prabhu charitra sunibe ko rasiya. Ram Lakhan Sita man basiya.",
+      "meaning_english": "He loves to hear Rama's stories. Rama, Lakshmana, and Sita live in his heart.",
+      "meaning_telugu": "రామuni kathalu vinadaniki ishtam. Rama, Lakshmana, Sita atani hrudayamlo untaru.",
+      "why_special_english": "Hanuman keeps Rama's family in his heart always.",
+      "why_special_telugu": "Rama kutumbam hrudayamlo.",
+      "audio": "/audio/verse-08.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "रसिया",
+        "blank_options": [
+          "रसिया",
+          "राम",
+          "लंक"
+        ],
+        "arrange_lines": [
+          "प्रभु चरित्र सुनिबे को रसिया।",
+          "राम लखन सीता मन बसिया॥।"
+        ],
+        "wrong_meanings_en": [
+          "He became tiny to meet Sita and became huge to burn Lanka.",
+          "In a mighty form he protected Rama's work and stopped cruel demons."
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "type": "chaupai",
+      "number_in_type": 9,
+      "hindi": "सूक्ष्म रूप धरि सियहिं दिखावा। बिकट रूप धरि लंक जरावा॥",
+      "telugu": "సూక్ష్మ రూప ధరి సియహిందిఖావా। వికట రూప ధరి లంక జరావా॥",
+      "english_transliteration": "Sukshma roop dhari Siyahi dikhava. Vikat roop dhari Lanka jarava.",
+      "meaning_english": "He became tiny to meet Sita and became huge to burn Lanka.",
+      "meaning_telugu": "Sita to kalavadaniki chinna roopam, Lanka daggaraki velladaniki pedda roopam.",
+      "why_special_english": "Hanuman can be gentle or mighty as needed.",
+      "why_special_telugu": "Situational gentleness and strength.",
+      "audio": "/audio/verse-09.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "दिखावा",
+        "blank_options": [
+          "दिखावा",
+          "राम",
+          "जरावा"
+        ],
+        "arrange_lines": [
+          "सूक्ष्म रूप धरि सियहिं दिखावा।",
+          "बिकट रूप धरि लंक जरावा॥।"
+        ],
+        "wrong_meanings_en": [
+          "In a mighty form he protected Rama's work and stopped cruel demons.",
+          "He brought the life-saving herb and helped Lakshmana live again. Rama's heart filled with joy."
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "type": "chaupai",
+      "number_in_type": 10,
+      "hindi": "भीम रूप धरि असुर सँहारे। रामचन्द्र के काज सँवारे॥",
+      "telugu": "భీమ రూప ధరి అసుర సँహారే। రామచంద్ర కే కాజ సँవారే॥",
+      "english_transliteration": "Bhim roop dhari asur sanhare. Ramchandra ke kaj sanvare.",
+      "meaning_english": "In a mighty form he protected Rama's work and stopped cruel demons.",
+      "meaning_telugu": "Bheem roopamlo rakshasulni odinchadu, Rama panini kapadadu.",
+      "why_special_english": "Hanuman uses strength to help, not to hurt innocents.",
+      "why_special_telugu": "Balam sahayam kosam.",
+      "audio": "/audio/verse-10.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "सँवारे",
+        "blank_options": [
+          "सँवारे",
+          "राम",
+          "लंक"
+        ],
+        "arrange_lines": [
+          "भीम रूप धरि असुर सँहारे।",
+          "रामचन्द्र के काज सँवारे॥।"
+        ],
+        "wrong_meanings_en": [
+          "He brought the life-saving herb and helped Lakshmana live again. Rama's heart filled with joy.",
+          "Lord Rama praised Hanuman greatly and said he is as dear as brother Bharata."
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "type": "chaupai",
+      "number_in_type": 11,
+      "hindi": "लाय सजीवन लखन जियाए। श्रीरघुबीर हरषि उर लाये॥",
+      "telugu": "లాయ సజీవన్ లఖన్ జియాఏ। శ్రీరఘుబీర హరషి ఉర లాయే॥",
+      "english_transliteration": "Lay sajeevan Lakhan jiyaye. Shri Raghuvir harashi ur laye.",
+      "meaning_english": "He brought the life-saving herb and helped Lakshmana live again. Rama's heart filled with joy.",
+      "meaning_telugu": "Sanjeevani tecchi Lakshmanuni brathiki chesadu. Rama hrudayam santosham tho nindindi.",
+      "why_special_english": "Hanuman saved a friend and made Rama happy.",
+      "why_special_telugu": "Mitra rakshana, Rama santosham.",
+      "audio": "/audio/verse-11.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "जियाए",
+        "blank_options": [
+          "जियाए",
+          "राम",
+          "लंक"
+        ],
+        "arrange_lines": [
+          "लाय सजीवन लखन जियाए।",
+          "श्रीरघुबीर हरषि उर लाये॥।"
+        ],
+        "wrong_meanings_en": [
+          "Lord Rama praised Hanuman greatly and said he is as dear as brother Bharata.",
+          "Rama hugged Hanuman when even a thousand mouths could not finish praising him."
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "type": "chaupai",
+      "number_in_type": 12,
+      "hindi": "रघुपति कीन्ही बहुत बड़ाई। तुम मम प्रिय भरतहि सम भाई॥",
+      "telugu": "రఘుపతి కీన్హీ బహుత బడ़ाई। తుమ మమ ప్రియ భరతహి సమ భాఈ॥",
+      "english_transliteration": "Raghupati kinhi bahut badai. Tum mam priya Bharat-hi sam bhai.",
+      "meaning_english": "Lord Rama praised Hanuman greatly and said he is as dear as brother Bharata.",
+      "meaning_telugu": "Rama Hanuman ni mikkili prema tho prasamsincharu, Bharata laga priyamaina sodarudu ani annaru.",
+      "why_special_english": "Rama showed that true love can be like family.",
+      "why_special_telugu": "Prema kutumba laga undachu.",
+      "audio": "/audio/verse-12.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "बड़ाई",
+        "blank_options": [
+          "बड़ाई",
+          "राम",
+          "भाई"
+        ],
+        "arrange_lines": [
+          "रघुपति कीन्ही बहुत बड़ाई।",
+          "तुम मम प्रिय भरतहि सम भाई॥।"
+        ],
+        "wrong_meanings_en": [
+          "Rama hugged Hanuman when even a thousand mouths could not finish praising him.",
+          "Great sages like Sanaka and Narada know Hanuman's glory."
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "type": "chaupai",
+      "number_in_type": 13,
+      "hindi": "सहस बदन तुम्हरो जस गावैं। अस कहि श्रीपति कण्ठ लगावैं॥",
+      "telugu": "సహస బదన తుమ్హరో జస గావైं। అస కహి శ్రీపతి కంఠ లగావైं॥",
+      "english_transliteration": "Sahas badan tumharo jas gavai. As kahi Shripati kanth lagavai.",
+      "meaning_english": "Rama hugged Hanuman when even a thousand mouths could not finish praising him.",
+      "meaning_telugu": "Vela mukhalu kuda sariponantha stuti chesina, Rama Hanuman ni hug chesadu.",
+      "why_special_english": "Even words are not enough to praise Hanuman's love.",
+      "why_special_telugu": "Prema ki mukhalu saripovu.",
+      "audio": "/audio/verse-13.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "लगावैं",
+        "blank_options": [
+          "लगावैं",
+          "राम",
+          "जस"
+        ],
+        "arrange_lines": [
+          "सहस बदन तुम्हरो जस गावैं।",
+          "अस कहि श्रीपति कण्ठ लगावैं॥।"
+        ],
+        "wrong_meanings_en": [
+          "Great sages like Sanaka and Narada know Hanuman's glory.",
+          "Even gods of wealth and direction, and wise poets, cannot fully describe his praise."
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "type": "chaupai",
+      "number_in_type": 14,
+      "hindi": "सनकादिक ब्रह्मादि मुनीसा। नारद सारद सहित अहीसा॥",
+      "telugu": "సనకాదిక బ్రహ్మాది మునీసా। నారద సారద సహిత అహీసా॥",
+      "english_transliteration": "Sanakadik Brahmadi munisa. Narad Sarad sahit ahisa.",
+      "meaning_english": "Great sages like Sanaka and Narada know Hanuman's glory.",
+      "meaning_telugu": "Sanaka munulu, Narada lanti pedda munulu Hanuman mahima telusu.",
+      "why_special_english": "Wise people everywhere honor Hanuman.",
+      "why_special_telugu": "Munulu gauravistaru.",
+      "audio": "/audio/verse-14.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "अहीसा",
+        "blank_options": [
+          "अहीसा",
+          "राम",
+          "मुनीसा"
+        ],
+        "arrange_lines": [
+          "सनकादिक ब्रह्मादि मुनीसा।",
+          "नारद सारद सहित अहीसा॥।"
+        ],
+        "wrong_meanings_en": [
+          "Even gods of wealth and direction, and wise poets, cannot fully describe his praise.",
+          "Hanuman helped Sugriva meet Rama and receive the kingdom."
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "type": "chaupai",
+      "number_in_type": 15,
+      "hindi": "जम कुबेर दिगपाल जहाँ ते। कबि कोबिद कहि सके कहाँ ते॥",
+      "telugu": "జమ కుబేర దిగపాల జహాఁ తే। కబి కోబిద కహి సకే కహాఁ తే॥",
+      "english_transliteration": "Jam Kuber Digpal jahan te. Kabi kobid kahi sake kahan te.",
+      "meaning_english": "Even gods of wealth and direction, and wise poets, cannot fully describe his praise.",
+      "meaning_telugu": "Dhanadhipulu, dikpalakulu, kavi kobidulu kuda polina stuti cheyaleru.",
+      "why_special_english": "No one can fully count Hanuman's gifts.",
+      "why_special_telugu": "Mahima aparam.",
+      "audio": "/audio/verse-15.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "कहाँ",
+        "blank_options": [
+          "कहाँ",
+          "राम",
+          "ते"
+        ],
+        "arrange_lines": [
+          "जम कुबेर दिगपाल जहाँ ते।",
+          "कबि कोबिद कहि सके कहाँ ते॥।"
+        ],
+        "wrong_meanings_en": [
+          "Hanuman helped Sugriva meet Rama and receive the kingdom.",
+          "Vibhishana followed Hanuman's advice and became king of Lanka."
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "type": "chaupai",
+      "number_in_type": 16,
+      "hindi": "तुम्हरो उपकार सुग्रीवहिं कीन्हा। राम मिलाय राज पद दीन्हा॥",
+      "telugu": "తుమ్హరో ఉపకార సుగ్రీవహింకీన్హా। రామ మిలాయ రాజ పద దీన్హా॥",
+      "english_transliteration": "Tumhro upkar Sugrivahin kinha. Ram milay raj pad dinha.",
+      "meaning_english": "Hanuman helped Sugriva meet Rama and receive the kingdom.",
+      "meaning_telugu": "Sugrivuni Rama tho kalipinchi rajyam ivvadaniki Hanuman sahayam chesadu.",
+      "why_special_english": "Hanuman helps friends find what is right.",
+      "why_special_telugu": "Mitra ki nyayam.",
+      "audio": "/audio/verse-16.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "दीन्हा",
+        "blank_options": [
+          "दीन्हा",
+          "राम",
+          "राज"
+        ],
+        "arrange_lines": [
+          "तुम्हरो उपकार सुग्रीवहिं कीन्हा।",
+          "राम मिलाय राज पद दीन्हा॥।"
+        ],
+        "wrong_meanings_en": [
+          "Vibhishana followed Hanuman's advice and became king of Lanka.",
+          "Hanuman leaped across the sky as if the sun were a sweet fruit far away."
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "type": "chaupai",
+      "number_in_type": 17,
+      "hindi": "तुम्हरो मंत्र बिभीषण माना। लंकेस्वर भए सब जग जाना॥",
+      "telugu": "తుమ్హరో మంత్ర విభీషణ మానా। లంకేశ్వర భయే సబ జగ జానా॥",
+      "english_transliteration": "Tumharo mantra Vibhishan mana. Lankeshwar bhae sab jag jana.",
+      "meaning_english": "Vibhishana followed Hanuman's advice and became king of Lanka.",
+      "meaning_telugu": "Vibhishanudu Hanuman upadesam vinadu, Lanka adhipati ayadu.",
+      "why_special_english": "Good advice from Hanuman can change a kingdom.",
+      "why_special_telugu": "Manchi upadesam rajyam marchutundi.",
+      "audio": "/audio/verse-17.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "माना",
+        "blank_options": [
+          "माना",
+          "राम",
+          "मंत्र"
+        ],
+        "arrange_lines": [
+          "तुम्हरो मंत्र बिभीषण माना।",
+          "लंकेस्वर भए सब जग जाना॥।"
+        ],
+        "wrong_meanings_en": [
+          "Hanuman leaped across the sky as if the sun were a sweet fruit far away.",
+          "With Rama's ring in his mouth, he crossed the ocean—what a wonder!"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "type": "chaupai",
+      "number_in_type": 18,
+      "hindi": "जुग सहस्र जोजन पर भानु। लील्यो ताहि मधुर फल जानू॥",
+      "telugu": "జుగ సహస్ర యోజన పర భాను। లీల్యో తాహి మధుర ఫల జానూ॥",
+      "english_transliteration": "Jug sahasra yojan par Bhanu. Leelyo tahi madhur phal janu.",
+      "meaning_english": "Hanuman leaped across the sky as if the sun were a sweet fruit far away.",
+      "meaning_telugu": "Suryuni dooram unna madhura phalam laga kanipinchi samudram daatinadu.",
+      "why_special_english": "Hanuman's leap shows faith can cross any distance.",
+      "why_special_telugu": "Visvasam dooram daatutundi.",
+      "audio": "/audio/verse-18.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "भानु",
+        "blank_options": [
+          "भानु",
+          "राम",
+          "फल"
+        ],
+        "arrange_lines": [
+          "जुग सहस्र जोजन पर भानु।",
+          "लील्यो ताहि मधुर फल जानू॥।"
+        ],
+        "wrong_meanings_en": [
+          "With Rama's ring in his mouth, he crossed the ocean—what a wonder!",
+          "Hard tasks in the world become easier with Hanuman's kind help."
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "type": "chaupai",
+      "number_in_type": 19,
+      "hindi": "प्रभु मुद्रिका मेलि मुख माहीं। जलधि लाँघि गये अचरज नाहीं॥",
+      "telugu": "ప్రభు ముద్రికా మేలి ముఖ మాహీं। జలధి లాఁఘి గయే అచరజ నాహీं॥",
+      "english_transliteration": "Prabhu mudrika meli mukh mahin. Jaladhi langhi gaye achraj nahin.",
+      "meaning_english": "With Rama's ring in his mouth, he crossed the ocean—what a wonder!",
+      "meaning_telugu": "Rama mudrika notlo pettukoni samudram daatinadu—adbhutam!",
+      "why_special_english": "With Rama's sign, Hanuman crossed the scary ocean.",
+      "why_special_telugu": "Rama chinna sanketam tho adbhutam.",
+      "audio": "/audio/verse-19.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "माहीं",
+        "blank_options": [
+          "माहीं",
+          "राम",
+          "जल"
+        ],
+        "arrange_lines": [
+          "प्रभु मुद्रिका मेलि मुख माहीं।",
+          "जलधि लाँघि गये अचरज नाहीं॥।"
+        ],
+        "wrong_meanings_en": [
+          "Hard tasks in the world become easier with Hanuman's kind help.",
+          "Hanuman guards Rama's door. No one enters without permission."
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "type": "chaupai",
+      "number_in_type": 20,
+      "hindi": "दुर्गम काज जगत के जेते। सुगम अनुग्रह तुम्हरे तेते॥",
+      "telugu": "దుర్గమ కాజ జగత కే జేతే। సుగమ అనుగ్రహ తుమ్హరే తేతే॥",
+      "english_transliteration": "Durgam kaj jagat ke jete. Sugam anugrah tumhare tete.",
+      "meaning_english": "Hard tasks in the world become easier with Hanuman's kind help.",
+      "meaning_telugu": "Kastamaina panulu Hanuman anugraham tho suluvugavutayi.",
+      "why_special_english": "With Hanuman's help, hard jobs feel possible.",
+      "why_special_telugu": "Kastamaina pani suluvu.",
+      "audio": "/audio/verse-20.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "तेते",
+        "blank_options": [
+          "तेते",
+          "राम",
+          "जेते"
+        ],
+        "arrange_lines": [
+          "दुर्गम काज जगत के जेते।",
+          "सुगम अनुग्रह तुम्हरे तेते॥।"
+        ],
+        "wrong_meanings_en": [
+          "Hanuman guards Rama's door. No one enters without permission.",
+          "In Hanuman's care we find comfort. He protects us so we need not be afraid."
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "type": "chaupai",
+      "number_in_type": 21,
+      "hindi": "राम दुआरे तुम रखवारे। होत न आज्ञा बिनु पैसारे॥",
+      "telugu": "రామ దుఆరే తుమ రఖవారే। హోత న ఆజ్ఞా బిను పైసారే॥",
+      "english_transliteration": "Ram duare tum rakhvare. Hot na agya binu paisare.",
+      "meaning_english": "Hanuman guards Rama's door. No one enters without permission.",
+      "meaning_telugu": "Hanuman Rama dwaram kapadutadu, ajna lekunda evaru raaru.",
+      "why_special_english": "Hanuman guards what is sacred.",
+      "why_special_telugu": "Pavitra dwara rakshana.",
+      "audio": "/audio/verse-21.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "पैसारे",
+        "blank_options": [
+          "पैसारे",
+          "राम",
+          "दुआरे"
+        ],
+        "arrange_lines": [
+          "राम दुआरे तुम रखवारे।",
+          "होत न आज्ञा बिनु पैसारे॥।"
+        ],
+        "wrong_meanings_en": [
+          "In Hanuman's care we find comfort. He protects us so we need not be afraid.",
+          "Hanuman can calm his own power, yet his roar can make the three worlds tremble."
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "type": "chaupai",
+      "number_in_type": 22,
+      "hindi": "सब सुख लहै तुम्हारी सरना। तुम रच्छक काहू को डर ना॥",
+      "telugu": "సబ సుఖ లహై తుమ్హారీ సరణా। తుమ రచ్ఛక కాహూ కో డర నా॥",
+      "english_transliteration": "Sab sukh lahai tumhari sarna. Tum rachchak kahu ko dar na.",
+      "meaning_english": "In Hanuman's care we find comfort. He protects us so we need not be afraid.",
+      "meaning_telugu": "Hanuman saranalo santosham, bhayam ledu—atadu rakshakudu.",
+      "why_special_english": "We are safe to learn when Hanuman protects us.",
+      "why_special_telugu": "Bhayam lekunda nerchukovachu.",
+      "audio": "/audio/verse-22.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "डर",
+        "blank_options": [
+          "डर",
+          "राम",
+          "सुख"
+        ],
+        "arrange_lines": [
+          "सब सुख लहै तुम्हारी सरना।",
+          "तुम रच्छक काहू को डर ना॥।"
+        ],
+        "wrong_meanings_en": [
+          "Hanuman can calm his own power, yet his roar can make the three worlds tremble.",
+          "Ghosts and evil spirits do not come near when brave Hanuman's name is chanted."
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "type": "chaupai",
+      "number_in_type": 23,
+      "hindi": "आपन तेज सम्हारो आपै। तीनों लोक हाँक ते काँपै॥",
+      "telugu": "ఆపన తేజ సమ్హారో ఆపై। తీనోం లోక హాఁక తే కాఁపై॥",
+      "english_transliteration": "Apan tej samharo apai. Teeno lok hak te kanpai.",
+      "meaning_english": "Hanuman can calm his own power, yet his roar can make the three worlds tremble.",
+      "meaning_telugu": "Tanaku tana tejasu control, kani tana garjanalo moodu lokalu venutayi.",
+      "why_special_english": "Hanuman is powerful yet caring.",
+      "why_special_telugu": "Balam mariyu daya.",
+      "audio": "/audio/verse-23.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "काँपै",
+        "blank_options": [
+          "काँपै",
+          "राम",
+          "लोक"
+        ],
+        "arrange_lines": [
+          "आपन तेज सम्हारो आपै।",
+          "तीनों लोक हाँक ते काँपै॥।"
+        ],
+        "wrong_meanings_en": [
+          "Ghosts and evil spirits do not come near when brave Hanuman's name is chanted.",
+          "Sickness and pain go away when we lovingly remember brave Hanuman."
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "type": "chaupai",
+      "number_in_type": 24,
+      "hindi": "भूत पिशाच निकट नहिं आवै। महाबीर जब नाम सुनावै॥",
+      "telugu": "భూత పిశాచ నికట నహింఆవై। మహావీర జబ నామ సునావై॥",
+      "english_transliteration": "Bhoot pishach nikat nahin avai. Mahavir jab nam sunavai.",
+      "meaning_english": "Ghosts and evil spirits do not come near when brave Hanuman's name is chanted.",
+      "meaning_telugu": "Hanuman peru vinnapudu bhootalu daggaraki raavu.",
+      "why_special_english": "Chanting his name keeps fear away.",
+      "why_special_telugu": "Peru tho bhayam dooram.",
+      "audio": "/audio/verse-24.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "सुनावै",
+        "blank_options": [
+          "सुनावै",
+          "राम",
+          "नाम"
+        ],
+        "arrange_lines": [
+          "भूत पिशाच निकट नहिं आवै।",
+          "महाबीर जब नाम सुनावै॥।"
+        ],
+        "wrong_meanings_en": [
+          "Sickness and pain go away when we lovingly remember brave Hanuman.",
+          "Hanuman frees us from trouble when we remember him in thought, word, and heart."
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "type": "chaupai",
+      "number_in_type": 25,
+      "hindi": "नासै रोग हरै सब पीरा। जपत निरंतर हनुमत बीरा॥",
+      "telugu": "నాసై రోగ హరై సబ పీరా। జపత్ నిరంతర హనుమత్ బీరా॥",
+      "english_transliteration": "Nasai rog harai sab peera. Japat nirantar Hanumat bira.",
+      "meaning_english": "Sickness and pain go away when we lovingly remember brave Hanuman.",
+      "meaning_telugu": "Rogalu, vedana Hanuman gurtu tho poyipotayi.",
+      "why_special_english": "Remembering Hanuman can comfort us when we are unwell.",
+      "why_special_telugu": "Gurtu arogya santosham.",
+      "audio": "/audio/verse-25.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "बीरा",
+        "blank_options": [
+          "बीरा",
+          "राम",
+          "रोग"
+        ],
+        "arrange_lines": [
+          "नासै रोग हरै सब पीरा।",
+          "जपत निरंतर हनुमत बीरा॥।"
+        ],
+        "wrong_meanings_en": [
+          "Hanuman frees us from trouble when we remember him in thought, word, and heart.",
+          "Rama is the king of saints, and Hanuman arranges all his work."
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "type": "chaupai",
+      "number_in_type": 26,
+      "hindi": "संकट तें हनुमान छुड़ावै। मन क्रम बचन ध्यान जो लावै॥",
+      "telugu": "సంకట తేం హనుమాన్ ఛుడ़ావై। మన క్రమ వచన ధ్యాన జో లావై॥",
+      "english_transliteration": "Sankat te Hanuman chhudavai. Man kram vachan dhyan jo lavai.",
+      "meaning_english": "Hanuman frees us from trouble when we remember him in thought, word, and heart.",
+      "meaning_telugu": "Manasa, vacha, karma tho gurtu chesukunte Hanuman sankatam nundi vidipistadu.",
+      "why_special_english": "Thinking of Hanuman in three ways brings freedom from worry.",
+      "why_special_telugu": "Manasa vacha karma tho vimukti.",
+      "audio": "/audio/verse-26.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "छुड़ावै",
+        "blank_options": [
+          "छुड़ावै",
+          "राम",
+          "संकट"
+        ],
+        "arrange_lines": [
+          "संकट तें हनुमान छुड़ावै।",
+          "मन क्रम बचन ध्यान जो लावै॥।"
+        ],
+        "wrong_meanings_en": [
+          "Rama is the king of saints, and Hanuman arranges all his work.",
+          "Whatever wish we bring with faith can bring endless good fruit in life."
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "type": "chaupai",
+      "number_in_type": 27,
+      "hindi": "सब पर राम तपस्वी राजा। तिन के काज सकल तुम साजा॥",
+      "telugu": "సబ పర రామ తపస్వీ రాజా। తిన కే కాజ సకల తుమ సాజా॥",
+      "english_transliteration": "Sab par Ram tapasvi raja. Tin ke kaj sakal tum saja.",
+      "meaning_english": "Rama is the king of saints, and Hanuman arranges all his work.",
+      "meaning_telugu": "Tapasvi raju Rama, a panulu anni Hanuman chesadu.",
+      "why_special_english": "Hanuman happily does Rama's good work.",
+      "why_special_telugu": "Rama pani santosham tho.",
+      "audio": "/audio/verse-27.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "साजा",
+        "blank_options": [
+          "साजा",
+          "राम",
+          "राजा"
+        ],
+        "arrange_lines": [
+          "सब पर राम तपस्वी राजा।",
+          "तिन के काज सकल तुम साजा॥।"
+        ],
+        "wrong_meanings_en": [
+          "Whatever wish we bring with faith can bring endless good fruit in life.",
+          "Hanuman's glory is famous in all four ages and lights up the world."
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "type": "chaupai",
+      "number_in_type": 28,
+      "hindi": "और मनोरथ जो कोई लावै। सोई अमित जीवन फल पावै॥",
+      "telugu": "ఔర మనోరథ జో కోఈ లావై। సోఈ అమిత జీవన ఫల పావై॥",
+      "english_transliteration": "Aur manorath jo koi lavai. Soi amit jivan phal pavai.",
+      "meaning_english": "Whatever wish we bring with faith can bring endless good fruit in life.",
+      "meaning_telugu": "Manasulo unna korika nammakam tho techina phalalu vastayi.",
+      "why_special_english": "Faith with Hanuman can bring beautiful results.",
+      "why_special_telugu": "Nammakam phalalu.",
+      "audio": "/audio/verse-28.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "पावै",
+        "blank_options": [
+          "पावै",
+          "राम",
+          "फल"
+        ],
+        "arrange_lines": [
+          "और मनोरथ जो कोई लावै।",
+          "सोई अमित जीवन फल पावै॥।"
+        ],
+        "wrong_meanings_en": [
+          "Hanuman's glory is famous in all four ages and lights up the world.",
+          "He protects good saints and is Rama's beloved destroyer of cruelty."
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "type": "chaupai",
+      "number_in_type": 29,
+      "hindi": "चारों जुग परताप तुम्हारा। है प्रसिद्ध जगत उजियारा॥",
+      "telugu": "చారోం జుగ పరతాప తుమ్హారా। హై ప్రసిద్ధ జగత ఉజియారా॥",
+      "english_transliteration": "Charon jug partap tumhara. Hai prasiddh jagat ujiyara.",
+      "meaning_english": "Hanuman's glory is famous in all four ages and lights up the world.",
+      "meaning_telugu": "Nalugu yugalalo Hanuman tejasu prasiddhi, prapancham veligindi.",
+      "why_special_english": "Hanuman's light has helped people for a very long time.",
+      "why_special_telugu": "Yugala kantam.",
+      "audio": "/audio/verse-29.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "उजियारा",
+        "blank_options": [
+          "उजियारा",
+          "राम",
+          "जुग"
+        ],
+        "arrange_lines": [
+          "चारों जुग परताप तुम्हारा।",
+          "है प्रसिद्ध जगत उजियारा॥।"
+        ],
+        "wrong_meanings_en": [
+          "He protects good saints and is Rama's beloved destroyer of cruelty.",
+          "Mother Sita gave Hanuman the blessing to grant spiritual gifts and treasures."
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "type": "chaupai",
+      "number_in_type": 30,
+      "hindi": "साधु-संत के तुम रखवारे। असुर-निकंदन राम दुलारे॥",
+      "telugu": "సాధు-సంత కే తుమ రఖవారే। అసుర-నికందన రామ దులారే॥",
+      "english_transliteration": "Sadhu-sant ke tum rakhvare. Asur-nikandan Ram dulare.",
+      "meaning_english": "He protects good saints and is Rama's beloved destroyer of cruelty.",
+      "meaning_telugu": "Sadhuvulni kapadutadu, Rama priyudu, asurulanu odinchutadu.",
+      "why_special_english": "Hanuman stands with good people.",
+      "why_special_telugu": "Sadhuvula paksham.",
+      "audio": "/audio/verse-30.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "दुलारे",
+        "blank_options": [
+          "दुलारे",
+          "राम",
+          "असुर"
+        ],
+        "arrange_lines": [
+          "साधु-संत के तुम रखवारे।",
+          "असुर-निकंदन राम दुलारे॥।"
+        ],
+        "wrong_meanings_en": [
+          "Mother Sita gave Hanuman the blessing to grant spiritual gifts and treasures.",
+          "Hanuman keeps Rama's holy name close and always serves Lord Rama."
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "type": "chaupai",
+      "number_in_type": 31,
+      "hindi": "अष्ट सिद्धि नौ निधि के दाता। अस बर दीन जानकी माता॥",
+      "telugu": "అష్ట సిద్ధి నౌ నిధి కే దాతా। అస బర దీన జానకీ మాతా॥",
+      "english_transliteration": "Asht siddhi nau nidhi ke data. As bar deen Janaki mata.",
+      "meaning_english": "Mother Sita gave Hanuman the blessing to grant spiritual gifts and treasures.",
+      "meaning_telugu": "Janaki talli Hanuman ki ashtasiddhi, nava nidhi vrata icharu.",
+      "why_special_english": "Hanuman shares blessings with a humble heart.",
+      "why_special_telugu": "Vinamranga vratalu.",
+      "audio": "/audio/verse-31.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "दाता",
+        "blank_options": [
+          "दाता",
+          "राम",
+          "माता"
+        ],
+        "arrange_lines": [
+          "अष्ट सिद्धि नौ निधि के दाता।",
+          "अस बर दीन जानकी माता॥।"
+        ],
+        "wrong_meanings_en": [
+          "Hanuman keeps Rama's holy name close and always serves Lord Rama.",
+          "By loving Hanuman we find Rama and forget sorrows from many births."
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "type": "chaupai",
+      "number_in_type": 32,
+      "hindi": "राम रसायन तुम्हरे पासा। सदा रहो रघुपति के दासा॥",
+      "telugu": "రామ రసాయన తుమ్హరే పాసా। సదా రహో రఘుపతి కే దాసా॥",
+      "english_transliteration": "Ram rasayan tumhare pasa. Sada raho Raghupati ke dasa.",
+      "meaning_english": "Hanuman keeps Rama's holy name close and always serves Lord Rama.",
+      "meaning_telugu": "Rama rasayanam Hanuman daggar, sada Rama dasudu.",
+      "why_special_english": "Hanuman always stays Rama's loving servant.",
+      "why_special_telugu": "Sada dasatvam.",
+      "audio": "/audio/verse-32.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "दासा",
+        "blank_options": [
+          "दासा",
+          "राम",
+          "रसायन"
+        ],
+        "arrange_lines": [
+          "राम रसायन तुम्हरे पासा।",
+          "सदा रहो रघुपति के दासा॥।"
+        ],
+        "wrong_meanings_en": [
+          "By loving Hanuman we find Rama and forget sorrows from many births.",
+          "At life's end we reach Rama's home and are known as Hari's devotees."
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "type": "chaupai",
+      "number_in_type": 33,
+      "hindi": "तुम्हरे भजन राम को पावै। जनम-जनम के दुख बिसरावै॥",
+      "telugu": "తుమ్హరే భజన రామ కో పావై। జనమ-జనమ కే దుఖ బిసరావై॥",
+      "english_transliteration": "Tumhare bhajan Ram ko pavai. Janam-janam ke dukh bisravai.",
+      "meaning_english": "By loving Hanuman we find Rama and forget sorrows from many births.",
+      "meaning_telugu": "Hanuman bhakti tho Rama labhistaru, janma janma dukhale maripoyayi.",
+      "why_special_english": "Loving Hanuman helps us feel close to Rama.",
+      "why_special_telugu": "Rama sameepam.",
+      "audio": "/audio/verse-33.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "पावै",
+        "blank_options": [
+          "पावै",
+          "राम",
+          "दुख"
+        ],
+        "arrange_lines": [
+          "तुम्हरे भजन राम को पावै।",
+          "जनम-जनम के दुख बिसरावै॥।"
+        ],
+        "wrong_meanings_en": [
+          "At life's end we reach Rama's home and are known as Hari's devotees.",
+          "If we do not chase other gods, Hanuman alone brings every happiness."
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "type": "chaupai",
+      "number_in_type": 34,
+      "hindi": "अंत काल रघुबर पुर जाई। जहाँ जन्म हरि-भक्त कहाई॥",
+      "telugu": "అంత కాల రఘుబర పుర జాఈ। జహాఁ జన్మ హరి-భక్త కహాఈ॥",
+      "english_transliteration": "Ant kaal Raghupati pur jai. Jahan janm Hari-bhakt kahai.",
+      "meaning_english": "At life's end we reach Rama's home and are known as Hari's devotees.",
+      "meaning_telugu": "Chivari samayam Rama nagaram, Hari bhakta peru vastundi.",
+      "why_special_english": "Hanuman guides devotees home to Rama.",
+      "why_special_telugu": "Rama dhama.",
+      "audio": "/audio/verse-34.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "कहाई",
+        "blank_options": [
+          "कहाई",
+          "राम",
+          "जन्म"
+        ],
+        "arrange_lines": [
+          "अंत काल रघुबर पुर जाई।",
+          "जहाँ जन्म हरि-भक्त कहाई॥।"
+        ],
+        "wrong_meanings_en": [
+          "If we do not chase other gods, Hanuman alone brings every happiness.",
+          "Troubles and pains melt for those who remember strong Hanuman."
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "type": "chaupai",
+      "number_in_type": 35,
+      "hindi": "और देवता चित्त न धरई। हनुमत सेइ सर्व सुख करई॥",
+      "telugu": "ఔర దేవతా చిత్త న ధరఈ। హనుమత్ సేఇ సర్వ సుఖ కరఈ॥",
+      "english_transliteration": "Aur devta chitt na dharai. Hanumat sei sarv sukh karai.",
+      "meaning_english": "If we do not chase other gods, Hanuman alone brings every happiness.",
+      "meaning_telugu": "Itara devatala venuka Hanuman chalu—sarvam mangalam.",
+      "why_special_english": "Trusting Hanuman brings peaceful joy.",
+      "why_special_telugu": "Visvasam santosham.",
+      "audio": "/audio/verse-35.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "करई",
+        "blank_options": [
+          "करई",
+          "राम",
+          "देवता"
+        ],
+        "arrange_lines": [
+          "और देवता चित्त न धरई।",
+          "हनुमत सेइ सर्व सुख करई॥।"
+        ],
+        "wrong_meanings_en": [
+          "Troubles and pains melt for those who remember strong Hanuman.",
+          "Glory, glory, glory to Hanuman! Please bless us like a kind teacher."
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "type": "chaupai",
+      "number_in_type": 36,
+      "hindi": "संकट कटै मिटै सब पीरा। जो सुमिरै हनुमत बलबीरा॥",
+      "telugu": "సంకట కటై మిటై సబ పీరా। జో సుమిరై హనుమత్ బలబీరా॥",
+      "english_transliteration": "Sankat kate mite sab peera. Jo sumirai Hanumat balbira.",
+      "meaning_english": "Troubles and pains melt for those who remember strong Hanuman.",
+      "meaning_telugu": "Balavantudaina Hanuman gurtu tho sankatam, vedana poyipotayi.",
+      "why_special_english": "Strong remembrance of Hanuman removes troubles.",
+      "why_special_telugu": "Sankatam dooram.",
+      "audio": "/audio/verse-36.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "बलबीरा",
+        "blank_options": [
+          "बलबीरा",
+          "राम",
+          "पीरा"
+        ],
+        "arrange_lines": [
+          "संकट कटै मिटै सब पीरा।",
+          "जो सुमिरै हनुमत बलबीरा॥।"
+        ],
+        "wrong_meanings_en": [
+          "Glory, glory, glory to Hanuman! Please bless us like a kind teacher.",
+          "Whoever reads this ten times finds great joy and freedom from bondage."
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "type": "chaupai",
+      "number_in_type": 37,
+      "hindi": "जै जै जै हनुमान गोसाईं। कृपा करहु गुरुदेव की नाईं॥",
+      "telugu": "జై జై జై హనుమాన్ గోసాఈं। కృపా కరహు గురుదేవ కీ నాఈं॥",
+      "english_transliteration": "Jai Jai Jai Hanuman Gosai. Kripa karahu gurudev ki nai.",
+      "meaning_english": "Glory, glory, glory to Hanuman! Please bless us like a kind teacher.",
+      "meaning_telugu": "Jai Jai Jai Hanuman! Guruvu laga krupa cheyyandi.",
+      "why_special_english": "We cheer for Hanuman with happy hearts.",
+      "why_special_telugu": "Anandam tho jai.",
+      "audio": "/audio/verse-37.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "गोसाईं",
+        "blank_options": [
+          "गोसाईं",
+          "राम",
+          "जै"
+        ],
+        "arrange_lines": [
+          "जै जै जै हनुमान गोसाईं।",
+          "कृपा करहु गुरुदेव की नाईं॥।"
+        ],
+        "wrong_meanings_en": [
+          "Whoever reads this ten times finds great joy and freedom from bondage.",
+          "Whoever reads Hanuman Chalisa gains success—Lord Shiva is the witness."
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "type": "chaupai",
+      "number_in_type": 38,
+      "hindi": "जो सत बार पाठ कर कोई। छूटहि बंदि महा सुख होई॥",
+      "telugu": "జో సత బార పాఠ కర కోఈ। ఛూటహి బంది మహా సుఖ హోఈ॥",
+      "english_transliteration": "Jo sat bar path kar koi. Chhutahi bandi maha sukh hoi.",
+      "meaning_english": "Whoever reads this ten times finds great joy and freedom from bondage.",
+      "meaning_telugu": "Padasaarlu chadivite bandham nundi vimukti, pedda santosham.",
+      "why_special_english": "Practice can bring freedom and joy.",
+      "why_special_telugu": "Abhyasam vimukti.",
+      "audio": "/audio/verse-38.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "होई",
+        "blank_options": [
+          "होई",
+          "राम",
+          "पाठ"
+        ],
+        "arrange_lines": [
+          "जो सत बार पाठ कर कोई।",
+          "छूटहि बंदि महा सुख होई॥।"
+        ],
+        "wrong_meanings_en": [
+          "Whoever reads Hanuman Chalisa gains success—Lord Shiva is the witness.",
+          "Tulsidas always serves Hari and asks Hanuman to live in his heart."
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "type": "chaupai",
+      "number_in_type": 39,
+      "hindi": "जो यह पढ़ै हनुमान चालीसा। होय सिद्धि साखी गौरीसा॥",
+      "telugu": "జో యహ పఢ़ై హనుమాన్ చాలీసా। హోయ సిద్ధి సాఖీ గౌరీసా॥",
+      "english_transliteration": "Jo yah padhai Hanuman Chalisa. Hoy siddhi sakhi Gaurisa.",
+      "meaning_english": "Whoever reads Hanuman Chalisa gains success—Lord Shiva is the witness.",
+      "meaning_telugu": "Hanuman Chalisa chadivite siddhi—Gaurisa sakshi.",
+      "why_special_english": "Reading with love brings success in good deeds.",
+      "why_special_telugu": "Prema tho siddhi.",
+      "audio": "/audio/verse-39.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "गौरीसा",
+        "blank_options": [
+          "गौरीसा",
+          "राम",
+          "सिद्धि"
+        ],
+        "arrange_lines": [
+          "जो यह पढ़ै हनुमान चालीसा।",
+          "होय सिद्धि साखी गौरीसा॥।"
+        ],
+        "wrong_meanings_en": [
+          "Tulsidas always serves Hari and asks Hanuman to live in his heart.",
+          "Son of the wind, remover of trouble, auspicious form—please live in our hearts with Rama, Lakshmana, and Sita."
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "type": "chaupai",
+      "number_in_type": 40,
+      "hindi": "तुलसीदास सदा हरि चेरा। कीजै नाथ हृदय महँ डेरा॥",
+      "telugu": "తులసీదాస్ సదా హరి చేరా। కీజై నాథ హృదయ మహँ డేరా॥",
+      "english_transliteration": "Tulsidas sada Hari chera. Kijai Nath hridaya mahin dera.",
+      "meaning_english": "Tulsidas always serves Hari and asks Hanuman to live in his heart.",
+      "meaning_telugu": "Tulsidas sada Hari dasudu, Hanuman hrudayamlo undamani korutadu.",
+      "why_special_english": "We invite Hanuman to live inside our hearts.",
+      "why_special_telugu": "Hrudayamlo invitation.",
+      "audio": "/audio/verse-40.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "डेरा",
+        "blank_options": [
+          "डेरा",
+          "राम",
+          "चेरा"
+        ],
+        "arrange_lines": [
+          "तुलसीदास सदा हरि चेरा।",
+          "कीजै नाथ हृदय महँ डेरा॥।"
+        ],
+        "wrong_meanings_en": [
+          "Son of the wind, remover of trouble, auspicious form—please live in our hearts with Rama, Lakshmana, and Sita."
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "type": "concluding_doha",
+      "number_in_type": 1,
+      "hindi": "पवनतनय संकट हरन, मंगल मूरति रूप। राम लखन सीता सहित, हृदय बसहु सुर भूप॥",
+      "telugu": "పవనతనయ సంకట హరన, మంగళ మూరతి రూప। రామ లఖన సీతా సహిత, హృదయ బసహు సుర భూప॥",
+      "english_transliteration": "Pavan tanay sankat haran, mangal murti roop. Ram Lakhan Sita sahit, hriday basahu sur bhoop.",
+      "meaning_english": "Son of the wind, remover of trouble, auspicious form—please live in our hearts with Rama, Lakshmana, and Sita.",
+      "meaning_telugu": "Pavana tanaya, sankat haram, mangala roopam—Rama, Lakshmana, Sita tho ma hrudayamlo undu.",
+      "why_special_english": "We ask Hanuman to stay with Rama in our hearts forever.",
+      "why_special_telugu": "Rama tho kudaa hrudayamlo undu.",
+      "audio": "/audio/concluding-doha.m4a",
+      "timings": null,
+      "game": {
+        "blank_word": "भूप",
+        "blank_options": [
+          "भूप",
+          "राम",
+          "रूप"
+        ],
+        "arrange_lines": [
+          "पवनतनय संकट हरन, मंगल मूरति रूप।",
+          "राम लखन सीता सहित, हृदय बसहु सुर भूप॥।"
+        ],
+        "wrong_meanings_en": []
+      }
+    }
+  ],
+  "sections": {
+    "full_chalisa": {
+      "audio": "/audio/full-chalisa.mp3",
+      "youtube_id": "AETFvQonfV8",
+      "youtube_url": "https://www.youtube.com/watch?v=AETFvQonfV8"
+    },
+    "intro_dohas": {
+      "audio": "/audio/intro-dohas.mp3",
+      "verse_ids": [
+        1,
+        2
+      ]
+    },
+    "chaupais": {
+      "audio": "/audio/chaupais.mp3",
+      "verse_ids": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    "concluding_doha": {
+      "audio": "/audio/concluding-doha.m4a",
+      "verse_id": 43
+    }
+  }
+}

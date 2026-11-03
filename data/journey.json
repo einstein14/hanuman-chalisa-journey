@@ -1,0 +1,41 @@
+{
+  "stages": [
+    {
+      "id": 1,
+      "key": "getting_familiar",
+      "title_en": "Getting Familiar",
+      "title_te": "పరిచయం",
+      "description_en": "Listen to the Chalisa and learn the opening dohas.",
+      "description_te": "చాలీసా వినండి, ప్రారంభ దోహలు నేర్చుకోండి.",
+      "verse_ids": [1, 2]
+    },
+    {
+      "id": 2,
+      "key": "learning_chaupais",
+      "title_en": "Learning the Chaupais",
+      "title_te": "చౌపాయలు",
+      "description_en": "Learn one or two new chaupais each session.",
+      "description_te": "ప్రతి session లో ఒకటి లేదా రెండు కొత్త చౌపాయలు.",
+      "verse_ids": [3, 42]
+    },
+    {
+      "id": 3,
+      "key": "remembering",
+      "title_en": "Remembering",
+      "title_te": "గుర్తుంచుకోవడం",
+      "description_en": "Review learned verses and play gentle games.",
+      "description_te": "నేర్చిన పద్యాలు revise, games ఆడండి.",
+      "verse_ids": []
+    },
+    {
+      "id": 4,
+      "key": "full_recitation",
+      "title_en": "Full Recitation",
+      "title_te": "పూర్తి పాఠం",
+      "description_en": "Chant the complete Hanuman Chalisa with joy.",
+      "description_te": "పూర్తి హనుమాన్ చాలీసా ఆనందంగా చదవండి.",
+      "verse_ids": [1, 43]
+    }
+  ],
+  "default_daily_target": 2
+}

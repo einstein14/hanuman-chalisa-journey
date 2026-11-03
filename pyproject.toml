@@ -1,0 +1,25 @@
+[project]
+name = "hanuman-chalisa-journey"
+version = "0.1.0"
+description = "Child-friendly Hanuman Chalisa learning app"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi[standard]>=0.115.0",
+    "uvicorn[standard]>=0.34.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3.0",
+    "httpx>=0.28.0",
+]
+
+[tool.setuptools.packages.find]
+include = ["backend*"]
+
+[tool.fastapi]
+entrypoint = "backend.main:app"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

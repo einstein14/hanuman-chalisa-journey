@@ -1,0 +1,88 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "slug": "childhood",
+      "title_en": "Little Hanuman and the Sun",
+      "title_te": "చిన్న హనుమంతుడు మరియు సూర్యుడు",
+      "image": "/images/stories/story-01.jpg",
+      "audio": null,
+      "body_en": "When Hanuman was a small child, he saw the bright sun in the sky. He thought it was a golden fruit and leaped up to eat it! The gods smiled at his courage. Hanuman did not know how strong he was yet.",
+      "body_te": "హనుమంతుడు చిన్నవాడిగా ఉన్నప్పుడు ఆకాశంలో ప్రకాశవంతమైన సూర్యుడిని చూశాడు. అది బంగారు పండి అనుకుని తినడానికి ఎగిరాడు! దేవతలు అతని ధైర్యానికి చిరునవ్వు నవ్వారు. అతనికి తన బలం ఇంకా teliyaledu.",
+      "moral_en": "Even when we are small, we can be brave and curious in a kind way.",
+      "moral_te": "చిన్నగా ఉన్నా మనం daya tho dhairyamga undachu."
+    },
+    {
+      "id": 2,
+      "slug": "meeting-rama",
+      "title_en": "Hanuman Meets Lord Rama",
+      "title_te": "హనుమంతుడు రామuni kalisadu",
+      "image": "/images/stories/story-02.jpg",
+      "audio": null,
+      "body_en": "Hanuman met Rama and Lakshmana in the forest. He saw kindness in Rama's eyes. From that day, Hanuman's heart belonged to Rama. He promised to help Rama in every way.",
+      "body_te": "అడవilo Hanuman Rama, Lakshmana ni kalisadu. Rama kallalo daya chusadu. aa roju nunchi Hanuman hrudayam Rama ki samarpinchadu. Rama ki sahayam chestanu ani korukunnadu.",
+      "moral_en": "True friendship begins when we see goodness in others.",
+      "moral_te": "Manchitanam kanipinchinappudu sneham modalavutundi."
+    },
+    {
+      "id": 3,
+      "slug": "strength",
+      "title_en": "Discovering Great Strength",
+      "title_te": "Mahaa balam telisindi",
+      "image": "/images/stories/story-03.jpg",
+      "audio": null,
+      "body_en": "Wise teachers told Hanuman about his gifts. When he remembered Rama, he could do amazing things—not to show off, but to help others.",
+      "body_te": "Guru lu Hanuman vratalu chepparu. Rama gurtu techukunte adbhutam chesadu—goppa cheppadaniki kaadu, sahayam kosam.",
+      "moral_en": "Strength is best when we use it to help, not to hurt.",
+      "moral_te": "Balam sahayam kosam upayoginchali, hurt cheyadaniki kaadu."
+    },
+    {
+      "id": 4,
+      "slug": "ocean",
+      "title_en": "Crossing the Ocean",
+      "title_te": "Samudram daatinadu",
+      "image": "/images/stories/story-04.jpg",
+      "audio": null,
+      "body_en": "Rama needed to find Sita far across the sea. Hanuman grew big, took Rama's ring, and flew over the waves. His love for Rama made the impossible journey possible.",
+      "body_te": "Sita dooram unna samudram aapai undi. Hanuman pedda ayyi Rama mudrika tisukoni egiradu. Rama prema asadhyam kuda sadhyam chesindi.",
+      "moral_en": "Love and faith can carry us through hard paths.",
+      "moral_te": "Prema, nammakam kastamaina margam lo sahayam chestayi."
+    },
+    {
+      "id": 5,
+      "slug": "finding-sita",
+      "title_en": "Hanuman Finds Sita",
+      "title_te": "Sita ni kanipettadu",
+      "image": "/images/stories/story-05.jpg",
+      "audio": null,
+      "body_en": "Hanuman became very small to search quietly in Lanka. He found Mother Sita and gave her Rama's message. Sita felt hope again.",
+      "body_te": "Hanuman chinna roopamlo Lanka lo vetukadu. Sita ammavari kanipetti Rama vartal cheppadu. Sita ki nammakam vachindi.",
+      "moral_en": "Gentle courage can bring comfort to those who are sad.",
+      "moral_te": "Dayagala dhairyam vedana unnavariki aasrayam istundi."
+    },
+    {
+      "id": 6,
+      "slug": "sanjeevani",
+      "title_en": "The Healing Mountain",
+      "title_te": "Sanjeevani parvatham",
+      "image": "/images/stories/story-06.jpg",
+      "audio": null,
+      "body_en": "When Lakshmana was hurt, Hanuman flew to find healing herbs. He could not find them in time, so he lifted the whole mountain and brought it back. Rama's army could save their friend.",
+      "body_te": "Lakshmana ghaayam ayinappudu mandu mullu vetukadu. time lo kanapadakapovte mottam parvatham eginchi tecchadu. Mitra rakshinchabadaru.",
+      "moral_en": "When friends need help, we try our very best.",
+      "moral_te": "Mitrale kavali anipinchinappudu manam maximum prayatninchali."
+    },
+    {
+      "id": 7,
+      "slug": "devotion",
+      "title_en": "Humble Devotion",
+      "title_te": "Vinamra bhakti",
+      "image": "/images/stories/story-07.jpg",
+      "audio": null,
+      "body_en": "After all his great deeds, Hanuman still called himself Rama's servant. He did not ask for a crown. He only wanted Rama to live in his heart.",
+      "body_te": "Anni mahimalu chesina taruvata kuda Hanuman tananu Rama dasudu annadu. Kireetam adagaledu. Rama hrudayamlo undamani korukunnadu.",
+      "moral_en": "Real heroes stay humble and kind.",
+      "moral_te": "Nijamaina veerulu vinamranga, dayagala untaru."
+    }
+  ]
+}
