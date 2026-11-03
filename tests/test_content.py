@@ -72,4 +72,4 @@ def test_sections_youtube_full_chalisa():
     res = client.get("/api/sections")
     assert res.status_code == 200
     full = res.json()["sections"]["full_chalisa"]
-    assert full.get("youtube_id") == "AETFvQonfV8"
+    assert full.get("youtube_id") == "09BbL0jU7ys"

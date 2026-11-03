@@ -437,8 +437,8 @@ def main():
         "sections": {
             "full_chalisa": {
                 "audio": "/audio/full-chalisa.mp3",
-                "youtube_id": "AETFvQonfV8",
-                "youtube_url": "https://www.youtube.com/watch?v=AETFvQonfV8",
+                "youtube_id": "09BbL0jU7ys",
+                "youtube_url": "https://www.youtube.com/watch?v=09BbL0jU7ys",
             },
             "intro_dohas": {"audio": "/audio/intro-dohas.mp3", "verse_ids": [1, 2]},
             "chaupais": {"audio": "/audio/chaupais.mp3", "verse_ids": list(range(3, 43))},
