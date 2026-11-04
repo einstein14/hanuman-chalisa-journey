@@ -290,6 +290,14 @@ body {
   font-size: 1.5rem;
 }
 
+.audio-panel .icon-btn {
+  min-width: 48px;
+  min-height: 48px;
+  padding: 0.5rem 0.75rem;
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
 .audio-placeholder {
   color: var(--soft-red);
   font-size: 0.95rem;

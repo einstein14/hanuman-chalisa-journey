@@ -9,12 +9,25 @@ export class AudioPlayer {
     this.speed = 1;
     this.currentSrc = null;
     this.available = null;
+    this.playBtn = null;
     this.audio.addEventListener("ended", () => this.onEnded());
+    this.audio.addEventListener("play", () => this.syncPlayButton());
+    this.audio.addEventListener("pause", () => this.syncPlayButton());
   }
 
   setSpeed(rate) {
     this.speed = rate;
     this.audio.playbackRate = rate;
+  }
+
+  syncPlayButton() {
+    if (!this.playBtn) return;
+    const playing = !this.audio.paused && !this.audio.ended;
+    this.playBtn.textContent = playing ? "⏸" : "▶";
+    this.playBtn.setAttribute(
+      "aria-label",
+      t(playing ? "pause" : "play", this.lang)
+    );
   }
 
   async probe(url) {
@@ -60,14 +73,23 @@ export class AudioPlayer {
     playBtn.setAttribute("aria-label", t("play", this.lang));
     playBtn.addEventListener("click", () => this.toggle());
     row.appendChild(playBtn);
-    const controls = [
-      ["pause", () => this.pause()],
-      ["replay", () => this.replay()],
+    this.playBtn = playBtn;
+
+    const replayBtn = document.createElement("button");
+    replayBtn.type = "button";
+    replayBtn.className = "btn ghost icon-btn";
+    replayBtn.textContent = "↻";
+    replayBtn.setAttribute("aria-label", t("replay", this.lang));
+    replayBtn.title = t("replay", this.lang);
+    replayBtn.addEventListener("click", () => this.replay());
+    row.appendChild(replayBtn);
+
+    const textControls = [
       ["slow", () => this.setSpeed(0.75)],
       ["repeat3", () => this.repeat(3)],
       ["repeat5", () => this.repeat(5)],
     ];
-    controls.forEach(([key, fn]) => {
+    textControls.forEach(([key, fn]) => {
       const b = document.createElement("button");
       b.type = "button";
       b.className = "btn ghost";
@@ -77,23 +99,21 @@ export class AudioPlayer {
     });
     panel.appendChild(row);
     this.container.appendChild(panel);
-    this.playBtn = playBtn;
+    this.syncPlayButton();
   }
 
   toggle() {
     if (this.audio.paused) this.audio.play().catch(() => {});
-    else this.pause();
+    else this.audio.pause();
   }
 
   pause() {
     this.audio.pause();
-    if (this.playBtn) this.playBtn.textContent = "▶";
   }
 
   replay() {
     this.audio.currentTime = 0;
     this.audio.play().catch(() => {});
-    if (this.playBtn) this.playBtn.textContent = "⏸";
   }
 
   repeat(n) {
@@ -108,12 +128,13 @@ export class AudioPlayer {
       return;
     }
     this.repeatLeft = 0;
-    if (this.playBtn) this.playBtn.textContent = "▶";
+    this.syncPlayButton();
   }
 
   destroy() {
     this.audio.pause();
     this.audio.src = "";
+    this.playBtn = null;
   }
 }
 
